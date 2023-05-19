@@ -9,7 +9,8 @@
           }
           nav a {
             text-align: center;
-            color: #537670;
+            color: black;
+            text-decoration: solid;
           }
           #hero-msg h1, #hero-msg h4 {
             text-align: center;
@@ -20,33 +21,66 @@
           main section {
             text-align: center;
           }
-        #background{
-          height: 725px;
-        }
-        body {
-          background-color: #F6EEEA;
-        }
-        header{
-          background-color: #946A5B;
-        }
-        nav a:hover{
-          background-color: #FFD819;
-        }
-        .book, .join{
-          background-color: #537670;
-        }
-        .book:hover, .join:hover{
-          background-color: #FFD819;
-        }
-        #background{
-          background-color: #946A5B;
-        }
-        .msg {
-          background-color: #FFD819;
-        }
-        footer{
-          background-color: #537670;
-        }
+          #background{
+            height: 725px;
+          }
+          body {
+            background-color: #F6EEEA;
+          }
+          header{
+            background-color: #946A5B;
+          }
+          nav a:hover{
+            background-color: #FFD819;
+            color: black;
+          }
+          .book, .join{
+            background-color: #537670;
+            color: white;
+            text-decoration: solid;
+          }
+          .book:hover, .join:hover{
+            background-color: #FFD819;
+            color: black;
+          }
+          #background{
+            background-color: #946A5B;
+          }
+          .msg {
+            background-color: #FFD819;
+          }
+          footer{
+            background-color: #537670;
+            color: #F6EEEA;
+          }
+          .home-title {
+            color: white;
+          }
+          h4{
+            color: black;
+          }
+          .msg h2{ 
+            color:black ;
+          }
+          .msg p{
+            color: black;
+          }
+          footer a{
+            color:#F6EEEA;
+            text-decoration: solid;
+          }
+          footer a:hover{
+            color: #FFD819;
+          }
+          .icon{
+            width: 80px;
+          }
+          footer p{
+            font-size: 1.2em;
+          }
+          footer p a:hover {
+            text-decoration: underline;
+          }
         </footer>
     </div>
 </body>
