@@ -1,6 +1,4 @@
-<body>
-    <div id="content">
-        <header>
+
         div {
             max-width: 1600px;
           }
@@ -81,6 +79,4 @@
           footer p a:hover {
             text-decoration: underline;
           }
-        </footer>
-    </div>
-</body>
+        
