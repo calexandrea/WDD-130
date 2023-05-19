@@ -27,6 +27,7 @@
           }
           header{
             background-color: #946A5B;
+            color: #F6EEEA;
           }
           nav a:hover{
             background-color: #FFD819;
@@ -52,7 +53,7 @@
             color: #F6EEEA;
           }
           .home-title {
-            color: white;
+            color: #946a94;
           }
           h4{
             color: black;
